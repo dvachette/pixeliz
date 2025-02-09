@@ -1,0 +1,10 @@
+Programation:
+	Interface graphique:Cyriaque Monteil
+	Fonction de pixelisation:Donatien Vachette
+Documentation:
+	Documentation_pixeliz.pdf:Antoine Madebene
+	Organigramme:Donatien Vachette
+Recherche et conception:
+	Recherche de la fonction:Antoine Madebene
+	design de l'interface graphique:Cyriaque Monteil
+	
