@@ -146,9 +146,9 @@ def selectFile():#sélection de l'image a pixeliser
 fen_princ = Tk()
 fen_princ.title("Pixeliz")
 fen_princ.geometry("300x300-500+200")
-fen_princ.iconbitmap("ressources\\logopixeliz.ico")
+fen_princ.iconbitmap("ressources/logopixeliz.ico")
 #Ajout d'un fichier image
-bg = PhotoImage(file = "ressources\\Bg_pixelizz.png")
+bg = PhotoImage(file = "ressources/Bg_pixelizz.png")
 
 # afficher l'image en arriere plan
 label1 = Label(fen_princ, image = bg)
